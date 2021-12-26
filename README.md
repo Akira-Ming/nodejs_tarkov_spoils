@@ -1,1 +1,2 @@
-### 更目录执行 node .\src\index.js 
+### npm run start
+### yarn start
